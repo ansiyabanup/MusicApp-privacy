@@ -6,6 +6,7 @@ Our privacy policy will help you understand what information we collect at BeatE
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise defined in this Privacy Policy.
 
 Information Collection and Use
+
 For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.
 The app does use third party services that may collect information used to identify you.
 
